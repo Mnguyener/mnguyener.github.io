@@ -1,6 +1,6 @@
 ## Welcome to M's page!
 
-Before scrolling down, would you like to donate $5 to a good cause? Visit this [GlobalGiving website](globalgiving.org/projects/team1087) to support developing communities in Sub-Saharan Africa. There will be more information on that later.
+Before scrolling down, would you like to donate $5 to a good cause? Visit this GlobalGiving website: globalgiving.org/projects/team1087 to support developing communities in Sub-Saharan Africa. There will be more information on that later.
 
 
 ### Let's Jump into It
