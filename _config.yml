@@ -1,3 +1,15 @@
 theme: jekyll-theme-minimal
-title: Welcome to Mnguyener's homepage!
-description: This page may just be filled with commentary on books I've read and the small updates on my life.
+title: "Michelle Nguyen"
+email: michellehnguyen03@gmail.com
+description: This page may just be filled with commentary on books I've read and the small academic updates on my life.
+
+  
+baseurl: "/" 
+url: "https://mnguyener.github.io"
+twitter_username: cherryfox106
+github_username:  mnguyener
+
+sass:
+  sass_dir: _sass
+
+icon: ./assets/img/icon.jpg
